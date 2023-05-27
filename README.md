@@ -9,5 +9,5 @@ Feature Selection and Engineering: The project will select the most relevant fea
 
 Regression Model Development: The project will build a regression model using the selected features and the target variable (house sale price). Various regression techniques such as linear regression, multiple regression, or advanced models like random forests or gradient boosting may be employed. The model will be trained on a subset of the data and validated using appropriate evaluation metrics.
 # Tech stack used : 
-#### Jupyter Notebook(For Data Cleaning,Visualization,Building Regression models and their Evaluation & Optimization)
+#### Jupyter Notebook(For Data Preprocessing,Visualization,Building Regression models and their Evaluation & Optimization)
 #### Powerpoint(For presenting Insights)
